@@ -7,9 +7,8 @@
 📫 **Reach me at**: akhileshpratapsingh0007@gmail.com  
 
 ---
-
-### 🛠️ Tech Stack & Tools
 <div align="center">
+### 🛠️ Tech Stack & Tools
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,express,tailwind,git,github,linux,tensorflow,opencv)
 </div>
 ---
