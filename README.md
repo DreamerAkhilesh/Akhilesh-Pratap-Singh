@@ -2,9 +2,9 @@
 
 🚀 Aspiring Software & Data Engineer | MERN Stack Developer | OpenCV Enthusiast  
 🎓 Final Year @ Institute of Engineering and Technology, Lucknow  
-🌱 Currently learning: Machine Learning, AWS, Django, and DevOps  
+🌱 Currently learning: Machine Learning, AWS and DevOps  
 💼 Working on: A subscription-based Milk Delivery System  
-📫 Reach me: akhileshpratap646@gmail.com  
+📫 Reach me: akhileshpratapsingh0007@gmail.com  
 
 ---
 
@@ -15,8 +15,8 @@
 
 ### 📊 GitHub Stats
 
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshpratap&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshpratap&layout=compact&theme=radical)
+![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamerAkhilesh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerAkhilesh&layout=compact&theme=radical)
 
 ---
 
