@@ -9,9 +9,9 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-
+<div align="center">
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,express,tailwind,git,github,linux,tensorflow,opencv)
-
+</div>
 ---
 
 ### 📊 GitHub Stats
