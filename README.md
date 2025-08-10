@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Software & Data Engineer** | MERN Stack Developer | OpenCV & ML Enthusiast  
 🎓 Final Year Student @ **Institute of Engineering and Technology, Lucknow**  
-🌱 **Currently exploring**: Machine Learning • AWS • DevOps • Django  
+🌱 **Currently exploring**: Machine Learning • AWS • DevOps 
 💡 Passionate about building real-world solutions through code  
 📫 **Reach me at**: akhileshpratapsingh0007@gmail.com  
 
